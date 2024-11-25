@@ -24,5 +24,5 @@ def main():
     run_scan(target_ip)
     print("Vulnerability scan results saved in 'vuln_scan_result.txt'")
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
